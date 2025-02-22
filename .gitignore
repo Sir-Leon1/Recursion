@@ -1,0 +1,40 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.lib
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# CLion specific files
+.idea/
+cmake-build-debug/
+cmake-build-release/
+cmake-build-*/
+
+# CMake specific files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Other
+*.log
+*.tmp
+*.swp
